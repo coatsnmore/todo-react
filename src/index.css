@@ -1,0 +1,14 @@
+todo {
+  font: 14px;
+  border: 10px;
+}
+
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
+
